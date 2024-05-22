@@ -1,0 +1,8 @@
+.hero {
+    background-image: linear-gradient (rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0,5)), url("https://plus.unsplash.com/preium_photo-1676400614009-3b230ef8be6d?q=80&w=2942&auto=format&fit=crop&iclib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fa%3D%3D");
+    height: 50%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
